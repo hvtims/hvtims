@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hatim Tahiri
 
-I'm a **Full-Stack Developer** and software development student at **Zone01 Oujda**, based in **Morocco**.
+I'm a **Full-Stack Developer** and  a talent at **Zone01 Oujda**, based in **Morocco**.
 
 ## 🚀 About Me
 
