@@ -1,50 +1,30 @@
-# 👋 Hi, I’m Hatim Tahiri
+# 👋 Hi, I'm Hatim Tahiri
 
-🎓 20 years old | Full-Stack Dev 
-🏫 Zone01Oujda
-🌍 Morocco  
-
----
+I'm a **Full-Stack Developer** and software development student at **Zone01 Oujda**, based in **Morocco**.
 
 ## 🚀 About Me
 
-I’m a passionate software development student at **Zone01Oujda**, focused on building solid fundamentals through real projects, peer learning, and problem-solving.
+I enjoy building practical software, understanding how systems work under the hood, and solving problems through hands-on projects. My focus is on strengthening my fundamentals through real-world development, peer learning, and continuous experimentation.
 
-I enjoy working close to the system, understanding how things work under the hood, and turning ideas into functional applications. I’m constantly learning, experimenting, and improving my skills through hands-on projects.
+I'm especially interested in:
 
----
+- Backend services and APIs
+- Web applications
+- System-level programming
+- Algorithms and problem solving
+- Collaborative development and Git workflows
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
-**Languages**
-- Go
-- Java
-- Rust
-- JavaScript
-- Bash
----
+- **Languages:** Go, Java, Rust, JavaScript, Bash
+- **Practices:** Pair programming, code reviews, collaborative problem solving
 
 ## 📂 Projects
 
-Most of my repositories are built as part of the **Zone01 curriculum** and personal learning projects, including:
-- Backend services and APIs
-- Web applications
-- System-level and algorithmic challenges
-- Collaborative projects using Git workflows
+Most of my repositories are built through the **Zone01 curriculum** and personal learning projects. Each project is an opportunity to improve my code quality, deepen my understanding, and turn ideas into working software.
 
-Each project focuses on clean code, clarity, and real-world problem solving.
+## 🤝 Let's Connect
 
----
+I'm always open to learning from others, collaborating on interesting projects, and improving through feedback.
 
-## 🤝 Collaboration & Open Source
-
-I enjoy working in team-based environments:
-- Pair programming
-- Code reviews
-- Collaborative problem solving
-
-I’m always open to learning from others and improving through feedback.
-
----
-
-> “Learning never stops — every project is a step forward.”
+> Learning never stops — every project is a step forward.
