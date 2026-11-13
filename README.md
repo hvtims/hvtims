@@ -15,7 +15,6 @@ I'm particularly interested in:
 -  Mobile application development
 -  Full-stack development
 -  Backend engineering and API design
--  System programming and cybersecurity
 -  Algorithms, problem-solving, and software architecture
 
 ## 🛠️ Tech Stack
