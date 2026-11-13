@@ -1,30 +1,58 @@
-# 👋 Hi, I'm Hatim Tahiri
+#  Hi, I'm Hatim Tahiri
 
-I'm a **Full-Stack Developer** and  a talent at **Zone01 Oujda**, based in **Morocco**.
+**Mobile & Full-Stack Developer** | Talent at **Zone01 Oujda** 
 
-## 🚀 About Me
+I enjoy building applications, exploring how systems work under the hood, and turning ideas into practical software.
 
-I enjoy building practical software, understanding how systems work under the hood, and solving problems through hands-on projects. My focus is on strengthening my fundamentals through real-world development, peer learning, and continuous experimentation.
+##  About Me
 
-I'm especially interested in:
+I'm a developer based in Morocco with a strong interest in mobile development, backend engineering, and full-stack applications.
 
-- Backend services and APIs
-- Web applications
-- System-level programming
-- Algorithms and problem solving
-- Collaborative development and Git workflows
+Through hands-on projects and collaborative development at Zone01, I've gained experience building applications, designing APIs, working with databases, and solving real-world engineering problems.
 
-## 🛠️ Technologies
+I'm particularly interested in:
 
-- **Languages:** Go, Java, Rust, JavaScript, Bash
-- **Practices:** Pair programming, code reviews, collaborative problem solving
+-  Mobile application development
+-  Full-stack development
+-  Backend engineering and API design
+-  System programming and cybersecurity
+-  Algorithms, problem-solving, and software architecture
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Dart, JavaScript, TypeScript
+- Go, Java, Rust
+- Bash
+
+**Mobile Development**
+- Flutter & Dart
+- React Native
+
+**Web & Backend**
+- React, Next.js
+- Node.js, Spring Boot
+- REST APIs, GraphQL, WebSockets
+
+**Databases & Tools**
+- MySQL, SQLite
+- Git, Docker, Postman
+- Linux
 
 ## 📂 Projects
 
-Most of my repositories are built through the **Zone01 curriculum** and personal learning projects. Each project is an opportunity to improve my code quality, deepen my understanding, and turn ideas into working software.
+I enjoy working on projects that challenge me to learn new technologies and understand different aspects of software development.
+
+Some areas I've explored:
+
+- ♟️ **Real-Time Multiplayer Chess** — Multiplayer game built with Flutter, Go, and WebSockets.
+- 📍 **Kaquiz** — Location-sharing application built with Flutter.
+- 🌌 **Sky-Map** — Astronomy application using device sensors and celestial data.
+- 🔐 **Secure Messenger** — Cross-platform messaging application built with Flutter and Firebase, featuring biometric authentication, end-to-end encrypted private chats, media sharing, user profiles, contact management, read receipt  and message editing and deletion.
+
 
 ## 🤝 Let's Connect
 
-I'm always open to learning from others, collaborating on interesting projects, and improving through feedback.
+I'm always open to interesting projects, collaboration opportunities, and connecting with other developers.
 
-> Learning never stops — every project is a step forward.
+- LinkedIn: [Hatim Tahiri](https://www.linkedin.com/in/hvtims/)
