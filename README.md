@@ -39,19 +39,19 @@ I'm particularly interested in:
 - Git, Docker, Postman
 - Linux
 
-## 📂 Projects
+##  Projects
 
 I enjoy working on projects that challenge me to learn new technologies and understand different aspects of software development.
 
 Some areas I've explored:
 
-- ♟️ **Real-Time Multiplayer Chess** — Multiplayer game built with Flutter, Go, and WebSockets.
-- 📍 **Kaquiz** — Location-sharing application built with Flutter.
-- 🌌 **Sky-Map** — Astronomy application using device sensors and celestial data.
-- 🔐 **Secure Messenger** — Cross-platform messaging application built with Flutter and Firebase, featuring biometric authentication, end-to-end encrypted private chats, media sharing, user profiles, contact management, read receipt  and message editing and deletion.
+-  **Real-Time Multiplayer Chess** — Multiplayer game built with Flutter, Go, and WebSockets.
+-  **Kaquiz** — Location-sharing application built with Flutter.
+-  **Sky-Map** — Astronomy application using device sensors and celestial data.
+-  **Secure Messenger** — Cross-platform messaging application built with Flutter and Firebase, featuring biometric authentication, end-to-end encrypted private chats, media sharing, user profiles, contact management, read receipt  and message editing and deletion.
 
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always open to interesting projects, collaboration opportunities, and connecting with other developers.
 
